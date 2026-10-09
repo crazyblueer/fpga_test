@@ -1,0 +1,28 @@
+# Quartus generated
+db/
+incremental_db/
+output_files/
+simulation/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pof
+*.sof
+*.qws
+
+# Simulation
+sim
+*.vcd
+
+# Python
+__pycache__/
+*.pyc
+*.npz
+*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
